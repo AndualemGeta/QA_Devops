@@ -9,6 +9,7 @@ My approach to this assessment prioritizes a professional QA engineering mindset
 Instead of treating the API as isolated endpoints, I evaluated it as a complete product ecosystem. This included debugging the developer experience (uncovering a critical TypeScript compilation blocker), writing data-independent end-to-end tests, validating payload schemas, testing performance limits, and designing a scalable CI/CD and Docker environment.
 
 ## 2. Repository Structure & Deliverables
+**Place these folders into the root of the provided API repository before running.**
 
 ### A. Quality Assurance & Automation
 
