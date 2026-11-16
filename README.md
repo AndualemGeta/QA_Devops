@@ -2,4 +2,4 @@
 
 Welcome to my assessment repository! 
 
-👉 **[Please click here to read the full Submission Document (README-SUBMISSION.md)](./README-SUBMISSION.md)**
+👉 **[Please click here to read the full Submission Document (README_SUBMISSION.md)](./README_SUBMISSION.md)**
